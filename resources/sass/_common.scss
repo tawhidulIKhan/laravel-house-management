@@ -1,0 +1,45 @@
+.index-img{
+    width:100px;
+    height:100px;
+    overflow:hidden;
+    margin:0px;
+}
+
+.pagination-section{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: right;
+    justify-content: flex-end;
+    padding: 0px 17px;
+}
+
+.btn{
+    &.btn-create{
+        border-radius: 56px;
+        padding: 7px 23px;
+        font-size: 14px;
+        i{
+            margin-right: 7px;
+        }
+    }
+}
+
+
+.media-uploader{
+    img{
+        border-radius: 100px;
+        border: 3px solid #ddd;
+        margin-left: 14px;
+    }
+}
+
+.data-section-wrapper{
+    padding: 30px;
+}
+
+.profile-dropdown{
+    .show{
+        transform: scale(1) !important;
+    }
+}
