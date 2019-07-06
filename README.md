@@ -1,4 +1,4 @@
-# cms_boilerplate
+# House Management System Application
 
 ## Installation
 
